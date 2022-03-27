@@ -1,0 +1,49 @@
+{
+  "emp": [
+    {
+      "name": "bhavi",
+      "age": "",
+      "address": "",
+      "department": "",
+      "salary": "",
+      "isMarried": false,
+      "id": 1
+    },
+    {
+      "name": "jay",
+      "age": "",
+      "address": "",
+      "department": "",
+      "salary": "",
+      "isMarried": false,
+      "id": 2
+    },
+    {
+      "name": "jay",
+      "age": "",
+      "address": "",
+      "department": "",
+      "salary": "",
+      "isMarried": false,
+      "id": 3
+    },
+    {
+      "name": "Bhavisha Amrishbhai Nayi",
+      "age": "20",
+      "address": "Vadalavali fali, Demai",
+      "department": "technical",
+      "salary": "20000",
+      "isMarried": true,
+      "id": 4
+    },
+    {
+      "name": "Bhavisha Amrishbhai Nayi",
+      "age": "20",
+      "address": "Vadalavali fali, Demai",
+      "department": "technical",
+      "salary": "20000",
+      "isMarried": true,
+      "id": 5
+    }
+  ]
+}
